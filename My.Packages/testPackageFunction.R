@@ -15,3 +15,8 @@ testPackageFunction <- function(){
 }
 
 devtools::document()
+
+
+setwd("C:/Users/djcowe/OneDrive - Queensland Treasury/Documents/Code/R/My.Packages")
+build()
+devtools::check("My.Packages")
