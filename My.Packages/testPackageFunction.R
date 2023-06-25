@@ -1,6 +1,3 @@
-install.packages("devtools")
-devtools::create("C:/Users/djcowe/OneDrive - Queensland Treasury/Documents/Code/R/My.Packages")
-setwd("C:/Users/djcowe/OneDrive - Queensland Treasury/Documents/Code/R/My.Packages")
 #' This is the test function title
 #' 
 #' @description This is the description of thwat the test function will do.
