@@ -16,12 +16,3 @@ testPackageFunction <- function(){
   c <- a + b
   return(c)
 }
-
-devtools::document()
-devtools::install()
-
-library(My.Packages)
-
-devtools::check()
-
-testPackageFunction()
