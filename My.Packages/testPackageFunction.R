@@ -13,3 +13,5 @@ testPackageFunction <- function(){
   c <- a + b
   return(c)
 }
+
+devtools::document()
