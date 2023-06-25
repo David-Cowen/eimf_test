@@ -8,7 +8,7 @@ setwd("C:/Users/djcowe/OneDrive - Queensland Treasury/Documents/Code/R/My.Packag
 #' @return This would be a description of the returned value (which should be 16).
 #' @examples
 #' testPackageFunction()
-#' 
+#' @export
 
 testPackageFunction <- function(){
   a <- 5
